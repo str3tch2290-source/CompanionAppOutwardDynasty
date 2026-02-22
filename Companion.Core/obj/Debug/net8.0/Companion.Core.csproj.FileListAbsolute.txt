@@ -1,0 +1,15 @@
+E:\Outward Dynasty Companion\src\Companion.Core\bin\Debug\net8.0\Companion.Core.deps.json
+E:\Outward Dynasty Companion\src\Companion.Core\bin\Debug\net8.0\Companion.Core.dll
+E:\Outward Dynasty Companion\src\Companion.Core\bin\Debug\net8.0\Companion.Core.pdb
+E:\Outward Dynasty Companion\src\Companion.Core\bin\Debug\net8.0\Companion.Protocol.dll
+E:\Outward Dynasty Companion\src\Companion.Core\bin\Debug\net8.0\Companion.Protocol.pdb
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companion.Core.csproj.AssemblyReference.cache
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companion.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companion.Core.AssemblyInfoInputs.cache
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companion.Core.AssemblyInfo.cs
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companion.Core.csproj.CoreCompileInputs.cache
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companio.8BF5F419.Up2Date
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companion.Core.dll
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\refint\Companion.Core.dll
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\Companion.Core.pdb
+E:\Outward Dynasty Companion\src\Companion.Core\obj\Debug\net8.0\ref\Companion.Core.dll

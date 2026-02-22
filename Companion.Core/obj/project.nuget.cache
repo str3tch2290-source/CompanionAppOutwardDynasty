@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "vlAFVPD38e0=",
+  "success": true,
+  "projectFilePath": "E:\\Outward Dynasty Companion\\src\\Companion.Core\\Companion.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\str3t\\.nuget\\packages\\microsoft.data.sqlite\\8.0.1\\microsoft.data.sqlite.8.0.1.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.1\\microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\str3t\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
