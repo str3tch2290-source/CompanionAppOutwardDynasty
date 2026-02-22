@@ -1,0 +1,11 @@
+E:\Outward Dynasty Companion\src\Companion.Protocol\bin\Debug\net8.0\Companion.Protocol.deps.json
+E:\Outward Dynasty Companion\src\Companion.Protocol\bin\Debug\net8.0\Companion.Protocol.dll
+E:\Outward Dynasty Companion\src\Companion.Protocol\bin\Debug\net8.0\Companion.Protocol.pdb
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\Companion.Protocol.GeneratedMSBuildEditorConfig.editorconfig
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\Companion.Protocol.AssemblyInfoInputs.cache
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\Companion.Protocol.AssemblyInfo.cs
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\Companion.Protocol.csproj.CoreCompileInputs.cache
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\Companion.Protocol.dll
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\refint\Companion.Protocol.dll
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\Companion.Protocol.pdb
+E:\Outward Dynasty Companion\src\Companion.Protocol\obj\Debug\net8.0\ref\Companion.Protocol.dll
